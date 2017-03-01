@@ -6,7 +6,7 @@ Qlear Website
 2. Download & Install [Git](https://git-scm.com)
 
 ## Getting Started ##
-- Clone This Repo `git clone https://github.com/qlear/qlear.github.io.git qlear'
+- Clone This Repo `git clone https://github.com/qlear/qlear.github.io.git qlear`
 - Status of your repo `git status`
 - Get Latest changes `git pull`
 - Add your changes `git add .`
