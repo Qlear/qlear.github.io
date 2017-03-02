@@ -5,3 +5,14 @@
 .tab-body {
     margin-top: 20px;
 }
+
+.nav-background {
+    overflow: hidden;
+    position: absolute;
+    max-height: 400px;
+    max-width: 100%;
+}
+
+.parallax-container {
+    max-height: 400px;
+}
